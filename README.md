@@ -31,8 +31,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `Real View`
 
-[Home Page](https://github.com/hitubaldaniya/text-utility/blob/main/screenshots/Text-Util.png)
+![Home Page](https://github.com/hitubaldaniya/text-utility/blob/main/screenshots/Text-Util.png)
 
-[Dark Mode](https://github.com/hitubaldaniya/text-utility/blob/main/screenshots/Text-Util-Dark.png)
+![Dark Mode](https://github.com/hitubaldaniya/text-utility/blob/main/screenshots/Text-Util-Dark.png)
 
-[About us](https://github.com/hitubaldaniya/text-utility/blob/main/screenshots/Text-Util-About.png)
+![About us](https://github.com/hitubaldaniya/text-utility/blob/main/screenshots/Text-Util-About.png)
